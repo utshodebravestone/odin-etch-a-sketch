@@ -1,2 +1,3 @@
 # odin-etch-a-sketch
-Assigned project from the odin project curriculum 
+
+Assigned project from the odin project curriculum
